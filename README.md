@@ -1,12 +1,12 @@
-[![Stories in Ready](https://badge.waffle.io/tipsybear/ormbad.png?label=ready&title=Ready)](https://waffle.io/tipsybear/ormbad)
 # ORMBad
 
-[![Coverage Status](https://coveralls.io/repos/tipsybear/ormbad/badge.svg?branch=master&service=github)](https://coveralls.io/github/tipsybear/ormbad?branch=master)
-[![Build Status](https://travis-ci.org/tipsybear/ormbad.svg)](https://travis-ci.org/tipsybear/ormbad)
-
-**Why use an ORM when you can just use straight up SQL in Python?**
+[![Build Status][travis_img]][travis_url]
+[![Coverage Status][coverage_img]][coverage_url]
+[![Stories in Ready][waffle_img]][waffle_url]
 
 [![Cleaning up Waders mess][lego_troopers.jpg]][lego_troopers_flickr]
+
+**Why use an ORM when you can just use straight up SQL in Python?**
 
 ## About
 
@@ -23,3 +23,9 @@ The image used in this README, [Cleaning up Waders mess][lego_troopers_flickr] b
 
 [lego_troopers.jpg]: docs/images/lego_troopers.jpg
 [lego_troopers_flickr]: https://flic.kr/p/awJdiL
+[travis_img]: https://travis-ci.org/tipsybear/ormbad.svg
+[travis_url]: https://travis-ci.org/tipsybear/ormbad
+[coverage_img]: https://coveralls.io/repos/tipsybear/ormbad/badge.svg?branch=master&service=github
+[coverage_url]: https://coveralls.io/github/tipsybear/ormbad?branch=master
+[waffle_img]: https://badge.waffle.io/tipsybear/ormbad.png?label=ready&title=Ready
+[waffle_url]: https://waffle.io/tipsybear/ormbad
