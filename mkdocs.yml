@@ -1,0 +1,4 @@
+site_name: ORMBad
+pages:
+    - [index.md, Home]
+theme: readthedocs
