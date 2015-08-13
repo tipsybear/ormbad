@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/tipsybear/ormbad.png?label=ready&title=Ready)](https://waffle.io/tipsybear/ormbad)
 # ORMBad
 
 [![Coverage Status](https://coveralls.io/repos/tipsybear/ormbad/badge.svg?branch=master&service=github)](https://coveralls.io/github/tipsybear/ormbad?branch=master)
