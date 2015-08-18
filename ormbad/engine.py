@@ -4,7 +4,7 @@
 # Author:   Benjamin Bengfort <benjamin@bengfort.com>
 # Created:  Fri Jun 12 14:11:56 2015 -0400
 #
-# Copyright (C) 2015 Windsor View Corporation
+# Copyright (C) 2015 Tipsy Bear Studios
 # For license information, see LICENSE.txt
 #
 # ID: engine.py [] benjamin@bengfort.com $
